@@ -1,0 +1,19 @@
+{
+  "name": "cert-tweaks",
+  "main": "./lib/cert-tweaks",
+  "version": "0.0.0",
+  "description": "Add extra certificates to Atom's trust store",
+  "keywords": [
+      "certificate",
+      "self-signed",
+      "certificate authority",
+      "hydrogen"
+  ],
+  "repository": "https://github.com/nikitakit/cert-tweaks",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
